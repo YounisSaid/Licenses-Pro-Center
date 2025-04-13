@@ -1,4 +1,4 @@
-# Licenses-Pro-Center
+# License-Pro-Center
 
 **License Pro Center (License Processing & Management System)**
 
