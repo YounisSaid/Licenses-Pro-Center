@@ -99,10 +99,7 @@ To restore the database:
 
 ## 🎬 Demo
 
-A complete video walkthrough with voice explanation is coming soon.  
-🎥 **Link will be added here once available**
-
----
+https://www.linkedin.com/posts/younis-said_csharp-dotnet-sqlserver-activity-7317283027741470721-0TCa?utm_source=share&utm_medium=member_android&rcm=ACoAAE-38Y4Bnvazg_NzGLpGa6cHoDTH44dtQuA
 
 ## 📈 Future Plans
 
