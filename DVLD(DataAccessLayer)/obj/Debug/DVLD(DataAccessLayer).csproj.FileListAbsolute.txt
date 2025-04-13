@@ -1,0 +1,6 @@
+D:\Programming\Pr\DVLD\DVLD(DataAccessLayer)\bin\Debug\DVLD(DataAccessLayer).dll
+D:\Programming\Pr\DVLD\DVLD(DataAccessLayer)\bin\Debug\DVLD(DataAccessLayer).pdb
+D:\Programming\Pr\DVLD\DVLD(DataAccessLayer)\obj\Debug\DVLD(DataAccessLayer).csproj.AssemblyReference.cache
+D:\Programming\Pr\DVLD\DVLD(DataAccessLayer)\obj\Debug\DVLD(DataAccessLayer).csproj.CoreCompileInputs.cache
+D:\Programming\Pr\DVLD\DVLD(DataAccessLayer)\obj\Debug\DVLD(DataAccessLayer).dll
+D:\Programming\Pr\DVLD\DVLD(DataAccessLayer)\obj\Debug\DVLD(DataAccessLayer).pdb

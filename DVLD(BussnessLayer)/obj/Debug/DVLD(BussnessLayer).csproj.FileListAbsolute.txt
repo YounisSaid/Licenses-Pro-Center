@@ -1,0 +1,9 @@
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\bin\Debug\DVLD(BussnessLayer).dll
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\bin\Debug\DVLD(BussnessLayer).pdb
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\bin\Debug\DVLD(DataAccessLayer).dll
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\bin\Debug\DVLD(DataAccessLayer).pdb
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\obj\Debug\DVLD(BussnessLayer).csproj.AssemblyReference.cache
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\obj\Debug\DVLD(BussnessLayer).csproj.CoreCompileInputs.cache
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\obj\Debug\DVLD(Bus.49CCEDE9.Up2Date
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\obj\Debug\DVLD(BussnessLayer).dll
+D:\Programming\Pr\DVLD\DVLD(BussnessLayer)\obj\Debug\DVLD(BussnessLayer).pdb
