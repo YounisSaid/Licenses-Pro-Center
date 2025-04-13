@@ -7,7 +7,7 @@ License Pro Center supports a complete flow for issuing and managing driver lice
 Built using the .NET Framework, it uses C# and Windows Forms for the interface, with SQL Server as the database backend connected via ADO.NET.
 The system features full CRUD operations across all entities, accountability through user activity tracking, and support for both local and international license operations.
 ________________________________________
-Key Features
+Key Features 
 Local License Management
 •	📝 Apply for Local Driving License
 o	Link to person profile
